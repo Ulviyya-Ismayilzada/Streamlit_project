@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from PIL import Image
- pip install plotly
+pip install plotly
 import plotly.express as px
 from catboost import CatBoostClassifier
 from xgboost import XGBClassifier
